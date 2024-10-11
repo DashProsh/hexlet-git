@@ -1,1 +1,1 @@
-# hexlet-git
+Haskell Curry
